@@ -22,3 +22,8 @@ Prerequisites
     Apache Spark (3.5.2 or higher)
     Required Python packages: dash, plotly, kafka-python, pyspark, requests
 
+![Same page containing the live data analysis](https://github.com/user-attachments/assets/2f03d4db-dd99-4deb-b3c6-1cb1bffa0e58)
+
+![Live data analysis2](https://github.com/user-attachments/assets/6ecf621f-8a54-42bf-b2b3-8633533d7e2e)
+
+
